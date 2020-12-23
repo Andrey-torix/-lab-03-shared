@@ -1,5 +1,7 @@
 # Лабораторная работа №3
 
+[![Build Status](https://www.travis-ci.com/Andrey-torix/-lab-03-shared.svg?branch=ver2)](https://www.travis-ci.com/Andrey-torix/-lab-03-shared)
+
 ### Задание
 
 **SharedPtr** реализует подсчет ссылок на ресурс. Ресурс освободится тогда, когда счетчик ссылок на него будет равен 0. Как видно, система реализует одно из основных правил сборщика мусора.
