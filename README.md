@@ -1,6 +1,6 @@
 # Лабораторная работа №3
 
-[![Build Status](https://www.travis-ci.com/Andrey-torix/-lab-03-shared.svg?branch=ver2)](https://www.travis-ci.com/Andrey-torix/-lab-03-shared)
+[![Build Status](https://www.travis-ci.com/Andrey-torix/lab-03-shared.svg?branch=ver2)](https://www.travis-ci.com/Andrey-torix/lab-03-shared)
 
 ### Задание
 
