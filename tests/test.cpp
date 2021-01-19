@@ -9,14 +9,14 @@ public:
     std::string name;
 
     explicit testClass(int value_ = 10,
-                     std::string name_ = "Typical Class") { //изменить
+                     std::string name_ = "Typical Class") {
         value = value_;
         name = std::move(name_);
     }
 
     bool operator==(const testClass& ref) const {
         bool out = false;
-        out = value == ref.value; //изменить
+        out = value == ref.value;
         out = name == ref.name;
         return out;
     }
